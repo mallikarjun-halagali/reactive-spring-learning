@@ -1,5 +1,7 @@
 # reactive-spring-learning
 Step-by-step mastery plan and project journey for learning Reactive Spring (WebFlux + Project Reactor)
+- [x] ✅ Completed item
+
 🟢 PHASE 1: Reactive Programming Concepts
  Understand Reactive Programming principles
 
